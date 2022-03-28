@@ -1,2 +1,2 @@
 # Hacker-rank
-Solved HackerRank exercises
+Solving HackerRank exercises
